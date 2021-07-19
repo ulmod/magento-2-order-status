@@ -1,6 +1,6 @@
 # Magento 2 Order Status Extension
 
-[Magento 2 Order Status](https://www.ulmod.com/custom-order-status-for-magento-2.html)  is a Magento 2 extension that allows you to create custom order statuses to improve the order processing fr both customer and store admins.
+[Magento 2 Order Status](https://www.ulmod.com/custom-order-status-for-magento-2.html)  is a Magento 2 extension that allows you to create custom order statuses to improve  order processing for both customer and store admins.
 
 With Magento 2 Order Status, you can create any number of order statuses to help customers easily track their orders and improve order processing.
 
