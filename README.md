@@ -11,7 +11,7 @@ With Magento 2 Order Status, you can create any number of order statuses to help
 * Create any number of order statuses to improve the order processing
 * Ability to assign custom statuses to order states
 * Show custom order statues under the customer account
-* Notify customers by email when order status changes. Ability to Use separate email templates per status and store view
+* Notify customers by email when order status changes. Ability to use separate email templates per status and store view
 * Ability to apply custom order statuses from the order view page (backend)
 * Ability to sort orders by custom order statuses from the order grid (backend)
 * Manage all custom order statuses from the admin panel
